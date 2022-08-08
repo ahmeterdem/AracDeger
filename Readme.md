@@ -4,9 +4,9 @@ http://localhost:8082/swagger-ui.html
 ##Ayarlar
     Application.properties
 
-#Web Servis çaðýrmak için tool:
+#Web Servis Ã§aÄŸÄ±rmak iÃ§in tool:
 Postman
 SOAPUI
 
 
-RestTemplate ile web servi çaðýr.
+RestTemplate ile web servi Ã§aÃ°Ã½r.
